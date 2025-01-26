@@ -2,7 +2,7 @@
 
 If **ElasticStack** helps you, consider giving us a ⭐ on GitHub! Your support encourages future development and helps others discover this tool!
 
-![ElasticStack Logo](assets/logo.png)
+![ElasticStack Logo](assets/elastic-stack-logo128.png.png)
 
 **ElasticStack** is a multi-cloud auto-scaling function deployment tool that supports AWS, Azure, and GCP. This project automates the deployment of auto-scaling cloud functions based on specific metrics such as network traffic, CPU, or memory usage. It utilizes Terraform for infrastructure setup and cloud-native function services for scaling.
 
